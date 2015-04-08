@@ -1,0 +1,6 @@
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\bin\Debug\Learning Csharp.exe.config
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\bin\Debug\Learning Csharp.exe
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\bin\Debug\Learning Csharp.pdb
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\obj\Debug\Learning Csharp.csprojResolveAssemblyReference.cache
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\obj\Debug\Learning Csharp.exe
+c:\users\bryson.au\documents\visual studio 2013\Projects\Learning Csharp\Learning Csharp\obj\Debug\Learning Csharp.pdb
